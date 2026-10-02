@@ -20,3 +20,12 @@
   <img src="https://img.shields.io/badge/GitHub%20Actions-D00000?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/AI%20%26%20LLM%20Testing-990000?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
+
+---
+
+### 📊 Automation & Activity Metrics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sy93-qa&show_icons=true&theme=dark&hide_border=true&title_color=D00000&icon_color=D00000&text_color=FFFFFF&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=sy93-qa&layout=compact&theme=dark&hide_border=true&title_color=D00000&text_color=FFFFFF&bg_color=0D1117" width="48%" />
+</p>
