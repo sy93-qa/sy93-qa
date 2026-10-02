@@ -6,11 +6,3 @@
  \___ \| '_ \| | | | | || |_ / _` || '_ ` _ \  
   ___) | | | | |_| | |__   _| (_| || | | | | | 
  |____/|_| |_|\__,_|    |_|  \__,_||_| |_| |_|
-
-
- {
-  "languages": ["Java", "JavaScript", "TypeScript", "Python"],
-  "automation_tools": ["Playwright", "Selenium", "RestAssured"],
-  "frameworks": ["TestNG", "Cucumber", "JUnit"],
-  "ci_cd_devops": ["GitHub Actions", "Docker", "Jenkins"]
-}
