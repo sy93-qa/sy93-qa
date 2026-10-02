@@ -10,12 +10,13 @@
 
 ---
 
-### ⚡ Core Technical Stack
+### Core Technical Stack
 
-```javascript
-const sdetProfile = {
-  languages:       ["Java", "TypeScript", "JavaScript", "Python"],
-  automationTools: ["Playwright", "Selenium", "RestAssured", "Bruno"],
-  frameworks:      ["TestNG", "Cucumber", "JUnit"],
-  ciCdDevOps:      ["GitHub Actions", "Docker", "Jenkins"]
-};
+<p align="left">
+  <img src="https://img.shields.io/badge/Playwright-D00000?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-990000?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/RestAssured-D00000?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-990000?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-D00000?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20%26%20LLM%20Testing-990000?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
