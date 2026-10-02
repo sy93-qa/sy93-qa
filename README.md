@@ -1,4 +1,4 @@
-# <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> <span style="color:#ff3333;">`sys.stdout.write("Hello, World! I'm Shubham Yadav")`</span>
+# 👋 <span style="color:#ff3333;">Hello, World! I'm Shubham Yadav</span>
 
 ```ascii
   ____  _             _  _                     
