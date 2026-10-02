@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://img.shields.io/badge/👋%20Hello,%20World!%20I'm%20Shubham%20Yadav-ff0000?style=for-the-badge&labelColor=ff0000&color=ff0000" alt="Hello World" height="40" />
+  <img src="https://img.shields.io/badge/%20Shubham%20Yadav-ff0000?style=for-the-badge&labelColor=ff0000&color=ff0000" alt="Hello World" height="40" />
 </p>
 
 <p align="left">
